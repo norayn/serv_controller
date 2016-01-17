@@ -1,0 +1,52 @@
+pin	port	func
+
+10	pa0	input term 2	*input
+11	pa1	input term 3	*input
+12	pa2	input term 4	*input
+13	pa3	input term 1	*input
+
+14	pa4	ex1
+15	pa5	ex2
+
+16	pa6	fan 1
+17	pa7	fan 2
+18	pb0	fan 3
+19	pb1	fan 4
+
+21	pb10	power is on	*input
+22	pb11	power sw
+
+25	pb12	led up B
+26	pb13	led up R
+27	pb14	led up G
+
+28	pb15	led left G
+29	pa8	led left R
+30	pa9	led left B
+
+31	pa10	ex3
+32	pa11	usb d-
+33	pa12	usb d+
+
+38	pa15	led down B
+39	pb3	led down R
+40	pb4	led down G
+
+41	pb5	led right B
+42	pb6	led right G
+43	pb7	led right R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
